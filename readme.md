@@ -12,4 +12,5 @@ Year 2019-2021
 
 ```zsh
 npm install --only=prod
+npm audit --production
 ```
